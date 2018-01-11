@@ -1,0 +1,198 @@
+c:\users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\bin\Debug\Coinroot.exe.config
+c:\users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\bin\Debug\Coinroot.exe
+c:\users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\bin\Debug\Coinroot.pdb
+c:\users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\bin\Debug\BitcoinLib.dll
+c:\users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.csprojResolveAssemblyReference.cache
+c:\users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.Form1.resources
+c:\users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.Properties.Resources.resources
+c:\users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.csproj.GenerateResource.Cache
+c:\users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.exe
+c:\users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.pdb
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.send_bitcoin.resources
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.recieve_bitcoin.resources
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.recieve_dogecoin.resources
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.send_bitcoincash.resources
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.send_dogecoin.resources
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.send_litecoin.resources
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.recieve_bitcoincash.resources
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.recieve_litecoin.resources
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.exchange.resources
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.example.resources
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\bin\Debug\Bitcoin.dll
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ankit\documents\visual studio 2013\Projects\Coinroot\Coinroot\obj\Debug\Coinroot.Form2.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\bin\Debug\Coinroot.exe.config
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.exe
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\bin\Debug\Coinroot.exe
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\bin\Debug\Coinroot.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\bin\Debug\Bitcoin.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\bin\Debug\BitcoinLib.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.csprojResolveAssemblyReference.cache
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.example.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.exchange.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.Form1.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.Form2.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.Properties.Resources.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.recieve_bitcoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.recieve_bitcoincash.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.recieve_dogecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.recieve_litecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.send_bitcoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.send_bitcoincash.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.send_dogecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.send_litecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot - Rapidz\Coinroot\obj\Debug\Coinroot.csproj.GenerateResource.Cache
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\bin\Debug\Coinroot.exe.config
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.exe
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\bin\Debug\Coinroot.exe
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\bin\Debug\Coinroot.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\bin\Debug\Bitcoin.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\bin\Debug\BitcoinLib.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.csprojResolveAssemblyReference.cache
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.example.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.exchange.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.Form1.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.Form2.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.Properties.Resources.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.recieve_bitcoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.recieve_bitcoincash.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.recieve_dogecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.recieve_litecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.send_bitcoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.send_bitcoincash.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.send_dogecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.send_litecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\obj\Debug\Coinroot.csproj.GenerateResource.Cache
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision\Coinroot\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\bin\Debug\Coinroot.exe.config
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.exe
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\bin\Debug\Coinroot.exe
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\bin\Debug\Coinroot.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\bin\Debug\Bitcoin.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\bin\Debug\BitcoinLib.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.csprojResolveAssemblyReference.cache
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.example.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.exchange.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.Form1.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.Form2.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.Properties.Resources.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.recieve_bitcoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.recieve_bitcoincash.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.recieve_dogecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.recieve_litecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.send_bitcoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.send_bitcoincash.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.send_dogecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.send_litecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.csproj.GenerateResource.Cache
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.1\Coinroot\obj\Debug\Coinroot.signup.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\bin\Debug\Bitcoin.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\bin\Debug\BitcoinLib.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.csprojResolveAssemblyReference.cache
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.example.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.exchange.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.Form1.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.Form2.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.Properties.Resources.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.recieve_bitcoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.recieve_bitcoincash.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.recieve_dogecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.recieve_litecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.send_bitcoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.send_bitcoincash.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.send_dogecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.send_litecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.signup.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\Coinroot.csproj.GenerateResource.Cache
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\bin\Debug\vision coin.exe.config
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\bin\Debug\vision coin.exe
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\bin\Debug\vision coin.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\vision coin.exe
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot Vision 1.2\Coinroot\obj\Debug\vision coin.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\bin\Debug\7CoinZ.exe.config
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\bin\Debug\7CoinZ.exe
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\bin\Debug\7CoinZ.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\bin\Debug\Bitcoin.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\bin\Debug\BitcoinLib.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.csprojResolveAssemblyReference.cache
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.example.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.exchange.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.Form1.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.Form2.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.Properties.Resources.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.recieve_bitcoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.recieve_bitcoincash.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.recieve_dogecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.recieve_litecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.send_bitcoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.send_bitcoincash.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.send_dogecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.send_litecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.signup.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\Coinroot.csproj.GenerateResource.Cache
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\7CoinZ.exe
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.0\Coinroot\obj\Debug\7CoinZ.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\bin\Debug\7CoinZ.exe.config
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\7CoinZ.exe
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\7CoinZ.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\bin\Debug\7CoinZ.exe
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\bin\Debug\7CoinZ.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\bin\Debug\Bitcoin.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\bin\Debug\BitcoinLib.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.csprojResolveAssemblyReference.cache
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.example.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.exchange.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.Form1.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.Form2.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.Properties.Resources.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.recieve_bitcoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.recieve_bitcoincash.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.recieve_dogecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.recieve_litecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.send_bitcoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.send_bitcoincash.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.send_dogecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.send_litecoin.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.signup.resources
+C:\Users\ankit\Documents\Visual Studio 2013\Projects\Coinroot 7CoinZ 1.2\Coinroot\obj\Debug\Coinroot.csproj.GenerateResource.Cache

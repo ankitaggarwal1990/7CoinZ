@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B5D23F7F-19F6-48B8-A53D-AE4367707681}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Coinroot</RootNamespace>
+    <AssemblyName>7CoinZ</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>c49c641c</NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favz.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bitcoin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bitcoin.1.0.0\lib\Bitcoin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="BitcoinLib, Version=1.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\BitcoinLib.1.4.0.0\lib\net45\BitcoinLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Gma.QrCodeNet.Encoding, Version=0.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QrCode.Net.0.4.0.0\lib\net45\Gma.QrCodeNet.Encoding.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Zen.Barcode.Core, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b5ae55aa76d2d9de, processorArchitecture=MSIL">
+      <HintPath>..\packages\Zen.Barcode.Rendering.Framework.3.1.10729.1\lib\Zen.Barcode.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BitnetClient.cs" />
+    <Compile Include="example.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="example.Designer.cs">
+      <DependentUpon>example.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exchange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exchange.Designer.cs">
+      <DependentUpon>exchange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="recieve_bitcoin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recieve_bitcoin.Designer.cs">
+      <DependentUpon>recieve_bitcoin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="recieve_bitcoincash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recieve_bitcoincash.Designer.cs">
+      <DependentUpon>recieve_bitcoincash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="recieve_dogecoin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recieve_dogecoin.Designer.cs">
+      <DependentUpon>recieve_dogecoin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="recieve_litecoin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recieve_litecoin.Designer.cs">
+      <DependentUpon>recieve_litecoin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="send_bitcoin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="send_bitcoin.Designer.cs">
+      <DependentUpon>send_bitcoin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="send_bitcoincash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="send_bitcoincash.Designer.cs">
+      <DependentUpon>send_bitcoincash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="send_dogecoin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="send_dogecoin.Designer.cs">
+      <DependentUpon>send_dogecoin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="send_litecoin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="send_litecoin.Designer.cs">
+      <DependentUpon>send_litecoin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signup.Designer.cs">
+      <DependentUpon>signup.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="example.resx">
+      <DependentUpon>example.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exchange.resx">
+      <DependentUpon>exchange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="recieve_bitcoin.resx">
+      <DependentUpon>recieve_bitcoin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="recieve_bitcoincash.resx">
+      <DependentUpon>recieve_bitcoincash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="recieve_dogecoin.resx">
+      <DependentUpon>recieve_dogecoin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="recieve_litecoin.resx">
+      <DependentUpon>recieve_litecoin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="send_bitcoin.resx">
+      <DependentUpon>send_bitcoin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="send_bitcoincash.resx">
+      <DependentUpon>send_bitcoincash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="send_dogecoin.resx">
+      <DependentUpon>send_dogecoin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="send_litecoin.resx">
+      <DependentUpon>send_litecoin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signup.resx">
+      <DependentUpon>signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Scripts\jquery-2.1.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="7z-fav.ico" />
+    <Content Include="fav7z.ico" />
+    <None Include="Resources\gradient-wallpaper-1.jpg" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\wallet3.png" />
+    <None Include="Resources\exchange2.png" />
+    <None Include="Resources\coinroot.png" />
+    <None Include="Resources\exchange.png" />
+    <None Include="Resources\home-icon-silhouette.png" />
+    <None Include="Resources\wallet.png" />
+    <None Include="Resources\recived.png" />
+    <None Include="Resources\send-email.png" />
+    <None Include="Resources\bitcoin.png" />
+    <None Include="Resources\coin-root.png" />
+    <None Include="Resources\dogecoin.png" />
+    <None Include="Resources\exchange %281%29.png" />
+    <None Include="Resources\exchange-1.png" />
+    <None Include="Resources\home-1.png" />
+    <None Include="Resources\litecoin.png" />
+    <None Include="Resources\wallet %281%29.png" />
+    <None Include="Resources\wallet-1.png" />
+    <None Include="Resources\home12.png" />
+    <None Include="Resources\c1.png" />
+    <None Include="Resources\c2.png" />
+    <None Include="Resources\c3.png" />
+    <None Include="Resources\c11.png" />
+    <None Include="Resources\c22.png" />
+    <None Include="Resources\c33.png" />
+    <None Include="Resources\home %281%29.png" />
+    <None Include="Resources\home %282%29.png" />
+    <None Include="Resources\home 2.png" />
+    <None Include="Resources\circle4.png" />
+    <None Include="Resources\strip.png" />
+    <Content Include="favz.ico" />
+    <Content Include="Scripts\jquery-2.1.1.intellisense.js" />
+    <Content Include="Scripts\jquery-2.1.1.js" />
+    <Content Include="Scripts\jquery-2.1.1.min.js" />
+    <Content Include="Scripts\nugetexample.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
